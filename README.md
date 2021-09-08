@@ -23,4 +23,4 @@ Finally, the trajectory is geneerated and cost of trajectory is calculated to fi
 
 I was able to drive the car for more than 4.5 miles without any accident. Please refer to the image as follows:
 
-![result](output.png)
+![result](output.PNG)
